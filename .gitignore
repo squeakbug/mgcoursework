@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.aux
+LGaV/build/
+LGaV/.vscode/
